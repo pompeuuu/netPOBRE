@@ -1,0 +1,45 @@
+body {
+  color: white;
+  background: black;
+  margin: 0px;
+}
+header {
+  border-bottom: solid 2px rgb(42, 122, 228);
+  padding: 20px;
+  font-size: 32px;
+  color: rgb(42, 122, 228);
+}
+section {
+  background: rgba(0, 0, 0, 0.151);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+  justify-content: center;
+}
+
+section {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.chamada-texto {
+  margin-right: 5%;
+}
+
+.chamada-texto {
+  margin-right: 5%;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+}
+
+img {
+  height: 140px;
+}
